@@ -1,0 +1,180 @@
+        .navbar {
+            /* background-color: rgb(134, 25, 85); */
+            border-radius: 16px;
+            margin: 13px 5px 13px;
+            box-sizing: border-box;
+        }
+        #sticky {
+            margin-top: -10px;
+            background-color: rgb(49, 0, 35);
+            padding: 0px;
+            position: fixed;
+            display: block;
+            width: 100%;
+        }
+        .navbar ul {
+            overflow: auto;
+        }
+
+        .navbar li {
+            float: left;
+            list-style: none;
+            margin: 1px 18px;
+        }
+
+        .navbar li a {
+            padding: 0px 6px;
+            text-decoration: none;
+            color: white;
+            font-size: 24px;
+        }
+        .container {
+            clear: both;
+            /* border: 3px solid violet; */
+			/* background-color: rgb(134, 25, 85); */
+            padding: 34px 34px 34px 34px;
+            margin: 10px 48px;
+            width: 666px;
+            border-radius: 10px;
+			text-align: left;
+            font-size: 33px;
+        }
+
+        a:hover {
+            /* background-color: violet; */
+            border-radius: 6px;
+        }
+
+        a {
+            text-decoration: none;
+            /* border: yellow solid 2px; */
+            padding: 6px;
+            border-radius: 6px;
+
+        }
+
+        a:visited {
+            color: green;
+        }
+
+        #contact {
+            border-color: violet;
+        }
+        body{
+            background-color: rgb(70, 14, 47);
+            margin: 0px;
+        }
+        .textbox {
+            float: right;
+            margin: 10px 20px;
+            border: violet 2px solid;
+            border-radius: 6px;
+        }
+        .intro,h3 {
+            font-family: 'Ubuntu', sans-serif;
+            color: hotpink;
+            margin-top: 69px;
+            }
+        .content{
+            font-family: 'Ubuntu', sans-serif;
+            color: white;
+            font-size: 40px;
+            margin: 151px auto;
+            margin-bottom: 0px;
+            display: block;
+            text-align: center;
+            
+        }    
+        .font {
+            font-family: 'Ubuntu', sans-serif;
+        }
+
+        .textbox {
+            padding: 3px;
+        }
+        .boxes{
+            border: 3px solid violet;
+            background-color: hotpink;
+            margin: 19px;
+            padding: 24px;
+            box-sizing: border-box;
+            display: inline-block;
+            width: 30%;
+        }
+        .heads{
+            text-align: center;
+        }
+        .contains{
+            margin: auto;
+            width: 1250px;
+        }
+        .containers{
+            clear: both;
+            /* border: 3px solid violet; */
+			background-color: hotpink;
+            padding: 0px;
+            margin: 0px auto;
+            width: 461px;
+            border-radius: 10px;
+			text-align: center;
+            font-size: 34px;
+        }
+        svg{
+            height: 32px;
+            width: 20px;
+        }
+        #virus{
+            height: 400px;
+            width: 400px;
+            display: block;
+            margin: -214px 730px;
+            /* border: violet 2px solid; */
+            border-radius: 40px;
+        }
+        #mask, #sanit, #hand{
+            margin: 30px;
+            height: 400px;
+            width: 380px;
+            border-radius: 40px;
+        }
+        table, tr, td, th{
+            margin: auto;
+            background-color: white;
+            border: 8px solid hotpink;
+            border-collapse: collapse;
+            font-size: 20px;
+            color: black;
+        }
+        th{
+            color: rgb(199, 0, 118);
+        }
+        table{
+            height: 500px;
+            width: 1000px;
+        }
+        .faq{
+            border: rgb(136, 8, 85) 8px solid;
+            width: 80%;
+            margin: 30px auto;
+            background-color: hotpink;
+            color: black;
+            padding: 30px;
+        }
+        span{
+            font-size: 20px;
+        }
+       .foot{
+           background-color: rgb(49, 0, 35);
+           display: block;
+           margin: auto 0vh;
+           text-align: center;
+           border: rgb(49, 0, 35) solid 10px;
+       }
+       .icon{
+           height: 59px;
+           width: 109px;
+           color: white;
+       }
+       .tips{
+           padding: 80px;
+       }
